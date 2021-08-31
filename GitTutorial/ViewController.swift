@@ -12,10 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Git Tutorial Edited!")
-        print("123")
+        print("Git Tutorial")
     }
 
+    fileprivate func initViews() {
+        
+    }
 
 }
 
